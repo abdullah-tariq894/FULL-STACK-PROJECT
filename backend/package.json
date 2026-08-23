@@ -4,6 +4,6 @@
   "description": "SHOP.CO pure Node.js REST API (no dependencies)",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node api.js && node server.js"
   }
 }
