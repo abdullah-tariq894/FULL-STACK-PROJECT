@@ -1,0 +1,9 @@
+{
+  "name": "shopco-backend",
+  "version": "1.0.0",
+  "description": "SHOP.CO pure Node.js REST API (no dependencies)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

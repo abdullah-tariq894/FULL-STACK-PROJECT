@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "name": "Gradient Graphic T-shirt",
+    "brand": "SHOP.CO",
+    "category": "T-Shirts",
+    "price": 145,
+    "oldPrice": null,
+    "discount": null,
+    "rating": 3.5,
+    "colors": [
+      "#2B2B2B",
+      "#8C7A6B",
+      "#4C6B4F"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "image": "https://picsum.photos/seed/tshirt-gradient/500/600",
+    "section": "new-arrivals",
+    "description": "A bold gradient graphic tee made from breathable 100% cotton. Relaxed fit, crew neck, perfect for everyday streetwear looks."
+  },
+  {
+    "id": 2,
+    "name": "Polo with Tipping Details",
+    "brand": "SHOP.CO",
+    "category": "Polo",
+    "price": 180,
+    "oldPrice": null,
+    "discount": null,
+    "rating": 4.5,
+    "colors": [
+      "#2B2B2B",
+      "#C4A484"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "image": "https://picsum.photos/seed/polo-shirt/500/600",
+    "section": "new-arrivals",
+    "description": "Classic polo shirt with contrast tipping on the collar and sleeves. Soft pique cotton fabric for all-day comfort."
+  },
+  {
+    "id": 3,
+    "name": "Black Striped T-shirt",
+    "brand": "SHOP.CO",
+    "category": "T-Shirts",
+    "price": 120,
+    "oldPrice": 150,
+    "discount": 30,
+    "rating": 5.0,
+    "colors": [
+      "#1a1a1a",
+      "#ffffff"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "image": "https://picsum.photos/seed/striped-tshirt/500/600",
+    "section": "new-arrivals",
+    "description": "Timeless striped t-shirt with a modern slim fit cut. Made with premium combed cotton yarn."
+  },
+  {
+    "id": 4,
+    "name": "Skinny Fit Jeans",
+    "brand": "SHOP.CO",
+    "category": "Jeans",
+    "price": 240,
+    "oldPrice": 260,
+    "discount": 20,
+    "rating": 3.5,
+    "colors": [
+      "#2c3e6b",
+      "#1a1a1a"
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "image": "https://picsum.photos/seed/skinny-jeans/500/600",
+    "section": "top-selling",
+    "description": "Slim through the hip and thigh with a skinny leg, stretch denim for maximum comfort and mobility."
+  },
+  {
+    "id": 5,
+    "name": "Checkered Shirt",
+    "brand": "SHOP.CO",
+    "category": "Shirts",
+    "price": 180,
+    "oldPrice": null,
+    "discount": null,
+    "rating": 4.5,
+    "colors": [
+      "#8a1c1c",
+      "#1a1a1a"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "image": "https://picsum.photos/seed/checkered-shirt/500/600",
+    "section": "top-selling",
+    "description": "Woven checkered shirt with a relaxed collar and button-down front, perfect for layering."
+  },
+  {
+    "id": 6,
+    "name": "Sleeve Striped T-shirt",
+    "brand": "SHOP.CO",
+    "category": "T-Shirts",
+    "price": 130,
+    "oldPrice": 160,
+    "discount": 20,
+    "rating": 4.5,
+    "colors": [
+      "#e8a33d",
+      "#1a1a1a"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "image": "https://picsum.photos/seed/sleeve-tshirt/500/600",
+    "section": "top-selling",
+    "description": "Casual crew-neck tee with striped sleeve detailing. Soft-touch cotton blend fabric."
+  },
+  {
+    "id": 7,
+    "name": "Vertical Striped Shirt",
+    "brand": "SHOP.CO",
+    "category": "Shirts",
+    "price": 212,
+    "oldPrice": 232,
+    "discount": 20,
+    "rating": 5.0,
+    "colors": [
+      "#7a8c99",
+      "#1a1a1a"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "image": "https://picsum.photos/seed/loose-tshirt/500/600",
+    "section": "you-might-also-like",
+    "description": "Smart-casual vertical striped shirt, tailored fit, ideal for both office and weekend wear."
+  },
+  {
+    "id": 8,
+    "name": "Courage Graphic T-shirt",
+    "brand": "SHOP.CO",
+    "category": "T-Shirts",
+    "price": 145,
+    "oldPrice": null,
+    "discount": null,
+    "rating": 4.0,
+    "colors": [
+      "#c94b2e"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "image": "https://picsum.photos/seed/vertical-tshirt/500/600",
+    "section": "you-might-also-like",
+    "description": "Statement graphic tee with bold typography print. Heavyweight cotton for a structured drape."
+  },
+  {
+    "id": 9,
+    "name": "Loose Fit Bermuda Shorts",
+    "brand": "SHOP.CO",
+    "category": "Shorts",
+    "price": 80,
+    "oldPrice": null,
+    "discount": null,
+    "rating": 3.0,
+    "colors": [
+      "#4c6b4f"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "image": "https://picsum.photos/seed/courage-tshirt/500/600",
+    "section": "you-might-also-like",
+    "description": "Relaxed loose-fit bermuda shorts with an elastic drawstring waist, great for warm-weather comfort."
+  },
+  {
+    "id": 10,
+    "name": "Faded Skinny Jeans",
+    "brand": "SHOP.CO",
+    "category": "Jeans",
+    "price": 210,
+    "oldPrice": null,
+    "discount": null,
+    "rating": 4.0,
+    "colors": [
+      "#6b7a8c"
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "image": "https://picsum.photos/seed/faded-jeans/500/600",
+    "section": "category",
+    "description": "Faded wash skinny jeans with a comfortable stretch fit and classic five-pocket styling."
+  },
+  {
+    "id": 11,
+    "name": "One Life Graphic T-shirt",
+    "brand": "SHOP.CO",
+    "category": "T-Shirts",
+    "price": 260,
+    "oldPrice": null,
+    "discount": null,
+    "rating": 4.5,
+    "colors": [
+      "#3d3d3d"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "image": "https://picsum.photos/seed/one-life-tshirt/500/600",
+    "section": "product-detail",
+    "description": "This graphic t-shirt is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style."
+  },
+  {
+    "id": 12,
+    "name": "Casual Puffer Jacket",
+    "brand": "SHOP.CO",
+    "category": "Jackets",
+    "price": 320,
+    "oldPrice": 360,
+    "discount": 15,
+    "rating": 4.5,
+    "colors": [
+      "#1a1a1a",
+      "#8c8c8c"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large",
+      "X-Large"
+    ],
+    "image": "https://picsum.photos/seed/flannel-shirt/500/600",
+    "section": "category",
+    "description": "Lightweight puffer jacket with quilted insulation, ideal for layering in cold weather."
+  }
+]
